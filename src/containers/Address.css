@@ -1,0 +1,65 @@
+.hr {
+  margin: 25px;
+}
+
+.Dropdown.ui.Dropdown {
+  background-color: rgba(0, 0, 0, 0);
+  color: white;
+  border: 2px solid white;
+  width: 350px;
+  font-weight: bold;
+  justify-content: center;
+  margin: 25px 0px 25px 0px;
+}
+
+.search-field {
+  padding-left: 10px;
+  display: flex;
+  width: 750px;
+  border: 2px solid white;
+  font-weight: bold;
+  font-size: 2em;
+  color: white;
+  text-align: left;
+  margin: 25px 0px 25px 0px;
+}
+
+.header {
+  text-align: center;
+  font-size: 2em;
+}
+
+.subHeader {
+  text-align: center;
+  font-size: 1.5em;
+}
+
+.address-duration {
+  text-align: left;
+}
+
+.Button {
+  background-color: #001f3f;
+  border-color: white;
+  cursor: pointer;
+  color: white;
+  font-family: inherit;
+  font-size: 1.6em;
+  font-weight: bold;
+  margin-top: 20px;
+  align-items: center;
+  text-align: center;
+  padding: 15px 30px;
+}
+
+.DetailsCard {
+  background-color: white;
+  color: #001f3f;
+  align-items: center;
+  margin: 20px 0px 20px 0px;
+  width: 100%;
+  height: 40%;
+  padding: 16px;
+  text-align: center;
+  box-shadow: 0 2px 3px white;
+}

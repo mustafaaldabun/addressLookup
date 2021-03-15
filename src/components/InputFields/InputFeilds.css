@@ -1,0 +1,11 @@
+.search-field {
+  padding-left: 10px;
+  display: flex;
+  width: 750px;
+  border: 2px solid white;
+  font-weight: bold;
+  font-size: 2em;
+  color: white;
+  text-align: left;
+  margin: 25px 0px 25px 0px;
+}
